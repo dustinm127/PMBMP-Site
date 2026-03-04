@@ -139,7 +139,7 @@ const projects = [
             editColor: "Dustin Grant"
         },
         videoUrl: "",
-        featuredStill: "assets/la_pietra_poster.jpg",
+        featuredStill: "assets/la_pietra_poster.png",
         stills: [
             "assets/la_pietra_final_1.png",
             "assets/la_pietra_final_2.png",
