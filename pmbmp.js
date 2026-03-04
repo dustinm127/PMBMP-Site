@@ -126,7 +126,8 @@ const projects = [
             "assets/best_range_hoods_1.png",
             "assets/best_range_hoods_2.png",
             "assets/best_range_hoods_3.png",
-            "assets/best_range_hoods_4.png"
+            "assets/best_range_hoods_4.png",
+            "assets/best_range_hoods_5.png"
         ]
     },
     {
