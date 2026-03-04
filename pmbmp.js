@@ -159,9 +159,9 @@ const projects = [
         videoUrl: "",
         featuredStill: "assets/the_other_side_poster.png",
         stills: [
-            "assets/the_other_side_1.jpg",
+            "assets/the_other_side_1.png",
             "assets/the_other_side_2.png",
-            "assets/the_other_side_3.jpg",
+            "assets/the_other_side_3.png",
             "assets/the_other_side_4.png",
             "assets/the_other_side_5.png"
         ]
