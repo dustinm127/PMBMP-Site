@@ -196,7 +196,8 @@ const projects = [
             "assets/shadows_2.png",
             "assets/shadows_3.png",
             "assets/shadows_4.png",
-            "assets/shadows_5.jpg"
+            "assets/shadows_5.png",
+            "assets/shadows_6.png"
         ]
     }
 ];
