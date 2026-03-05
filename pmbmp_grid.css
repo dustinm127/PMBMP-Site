@@ -833,6 +833,22 @@ body::after {
         margin: 100px auto 40px;
     }
 
+    .troels-top-bar,
+    .troels-bottom-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+
+    .troels-top-bar {
+        font-size: 16px;
+    }
+
+    .troels-hero-heading {
+        font-size: 60px;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
     .modal-project-title {
         font-size: 20px;
     }
